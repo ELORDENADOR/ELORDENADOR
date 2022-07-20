@@ -1,5 +1,5 @@
 ### 
-![image](https://user-images.githubusercontent.com/78438903/180098327-18d556de-d3bf-4944-8810-c0e13de770df.png)
+![image](https://user-images.githubusercontent.com/78438903/180099740-40998439-07e3-4cd0-a9e9-dd77246d1412.png)
 
 Te ayudo a construir un sitio web que interactúe con tus usuarios de forma positiva, con una interfaz  amigable y fácil de utilizar, puedo  transformar tus diseños en elementos funcionales y equilibrados.
 🧟HTML - 🧛CSS - 👾JAVASCRIPT – ⚛️REACTJS - 🦇PHP – 🕷️SASS, ☠️BOOTSTRAP, 👻TYPESCRIPT, 👺GRAPHQL, 🧙SQL SERVER, 🐵ORACLE 
